@@ -1,0 +1,101 @@
+Category,Mission Name,Mission Description,Difficulty
+Universal,The Classic,"Get a player to respond with ""What?"" after you say ""Guess what?""",Easy
+Food & Cafe,The Barista,"Get someone to order a drink from you using a fake, complex name (e.g., ""Zebra Mocha"").",Medium
+Food & Cafe,The Critic,"Get someone to say the food is ""too salty"" or ""too sweet.""",Easy
+Food & Cafe,Secret Ingredient,"Convince someone there is a ""secret ingredient"" in the food that isn't actually there.",Hard
+Food & Cafe,The Best Meal,Get a player to describe the best meal they have ever had in detail.,Medium
+Food & Cafe,The Allergy,Get someone to ask you if you have any food allergies.,Easy
+Food & Cafe,Coffee Order,Ask three people how they like their coffee and get them all to answer.,Medium
+Food & Cafe,Snack Preference,Get someone to admit they prefer savory snacks over sweet snacks.,Easy
+Food & Cafe,The Homemade,Convince a player that something store-bought was actually homemade.,Hard
+Food & Cafe,Weird Combo,"Get someone to try a ""weird"" food combination (e.g., fries in ice cream).",Hard
+Food & Cafe,The Recipe,Get someone to ask you for the recipe for a dish you didn't actually cook.,Hard
+Food & Cafe,Tasting Notes,"Get a player to describe the ""tasting notes"" of their drink like a sommelier.",Medium
+Food & Cafe,Dessert First,Convince someone that it’s acceptable to eat dessert before the main meal.,Hard
+Volleyball,The Rotation,"Get three people to stand in a circle and ""rotate"" positions with you.",Medium
+Volleyball,The Libero,Get someone (who isn't a player) to explain the role of a Libero to you.,Easy
+Volleyball,Celebration,"Get a player to do a high-five line with you after a minor ""win.""",Easy
+Volleyball,The Spike,"Toss a paper ball into the air and get someone to ""spike"" it.",Medium
+Volleyball,The Set-Up,Ask a player which they prefer: Setting or Hitting.,Easy
+Volleyball,The Referee,"Get a player to make the ""in"" or ""out"" signal with their hands.",Medium
+Volleyball,The Ace,Start a conversation about the best service ace you've ever seen.,Easy
+Volleyball,Ball Touch,Get someone to touch a ball three times in a row within 10 seconds.,Medium
+Volleyball,Knee Pads,Get a player to mention they need (or forgot) their knee pads.,Hard
+Volleyball,The Serve,Get a player to demonstrate their serving motion to you.,Medium
+Anime,Sub vs Dub,"Start a debate and get someone to say ""Original Japanese is better.""",Easy
+Anime,Catchphrase,"Get someone to say a famous anime catchphrase (e.g., ""Believe it!"").",Medium
+Anime,Power Up,"Get a player to strike a ""power-up"" pose (like Dragon Ball Z).",Hard
+Anime,Recommendation,Get a non-anime fan to agree to watch one full episode of a show you suggest.,Hard
+Anime,Full Name,Get a player to say the full name of a character from an anime they haven't seen.,Hard
+Anime,Theme Song,Get a player to hum the opening theme song of a popular anime.,Medium
+Anime,Cosplay,Comment on someone’s clothes and get them to say it looks like an anime outfit.,Medium
+Anime,Manga Fan,Convince a player that you prefer reading manga to watching anime.,Easy
+Anime,"The ""Nani""","Get a player to use a Japanese word like ""Nani"" or ""Kawaii"" in context.",Medium
+Anime,Attack Name,Get a player to shout the name of a fictional anime attack.,Medium
+Physical,The Yawn,Make another player yawn (usually by yawning first yourself).,Medium
+Physical,High Five,Get a player to give you three high fives in less than one minute.,Easy
+Physical,The Stowaway,Hide your mission card in someone's pocket/hood for 30 seconds undetected.,Hard
+Physical,Chicken Dance,"Get a player to do the ""Chicken Dance"" for at least 5 seconds.",Hard
+Physical,Handshake,Convince a player to invent a 4-part secret handshake with you.,Medium
+Physical,Ear Touch,Get a player to touch their own ears.,Easy
+Physical,Shoe Swap,Get a player to agree to swap their shoes with yours for 5 minutes.,Hard
+Physical,The Finder,Hide this card in a book and get another player to find it.,Medium
+Physical,Chair Swap,Get a player to give up their seat to you without you asking for it.,Hard
+Physical,Drink Hold,Get someone to hold your drink for more than 60 seconds.,Medium
+Physical,Movie Poster,"Get three people to pose for a ""dramatic movie poster"" photo with you.",Medium
+Physical,The Lend,Get a player to lend you a pen or pencil.,Easy
+Physical,The Jacket,Get a player to ask you why you are still wearing (or took off) your jacket.,Medium
+Physical,Backpack,Put your bag on someone and get them to wear it for 60 seconds.,Hard
+Physical,Object Balance,Balance a spoon on your nose and get a player to compliment it.,Medium
+Physical,Moonwalk,Get a player to moonwalk for at least three steps.,Hard
+Physical,One-Legged,Get a player to stand on one leg for 30 seconds.,Medium
+Conversation,The Compass,Get a player to point in the direction they think is North.,Medium
+Conversation,The Memory,Get someone to talk about their high school experience.,Easy
+Conversation,The Word,"Get a player to say the word ""Iridescent.""",Hard
+Conversation,The Quote,Get a player to quote a famous movie line.,Medium
+Conversation,Made-up Word,Invent a word and get someone to ask you what it means.,Medium
+Conversation,Bad Lyrics,Sing the wrong lyrics to a song and get someone to correct you.,Medium
+Conversation,Rules Guru,Get someone to explain the rules of a sport they like to you.,Easy
+Conversation,Travel Bug,Get someone to tell you where they'd go if they won a free vacation.,Easy
+Conversation,Favorites,"Get someone to tell you their favorite color, food, and movie.",Easy
+Conversation,Color Blind,"Get a player to say ""Purple"" when describing something other than color.",Hard
+Conversation,Riddle Me,Tell a simple riddle and get someone to give the correct answer.,Medium
+Conversation,What Time?,Get someone to tell you the time without checking your phone first.,Easy
+Conversation,Pet Parent,Get someone to show you a picture of their pet.,Easy
+Conversation,The Secret,"Convince someone to tell you a ""secret"" (can be a fake one).",Medium
+Conversation,Weather Talk,Get someone to complain about the weather twice in one conversation.,Easy
+Conversation,Celebrity,Get someone to tell you which celebrity they are most often compared to.,Medium
+Conversation,First Job,Get someone to describe their very first part-time job.,Easy
+Conversation,Middle Name,Get three people to tell you their middle names.,Medium
+Conversation,Guess Number,Get a player to correctly guess a number you are thinking of (1-5).,Easy
+Conversation,Language,Get a player to count to 10 in a language other than English.,Easy
+Conversation,Backwards,Get a player to say the alphabet backward from M to A.,Hard
+Conversation,Tongue Twister,Get a player to repeat a tongue twister three times perfectly.,Medium
+Conversation,Accent,Convince a player to speak in a fake accent for 60 seconds.,Hard
+Conversation,Fact Check,"Tell a fake ""fact"" and get someone to believe it.",Medium
+Skill,Rock Paper Scissors,Get a player to win a game of Rock-Paper-Scissors against you.,Easy
+Skill,Whistle,Get a player to whistle a specific tune you suggest.,Medium
+Skill,Artist,Get someone to draw a quick picture of an animal for you.,Medium
+Skill,Life Hack,Get a player to teach you a 'magic trick' or a quick 'life hack'.,Medium
+Skill,Origami,Fold this card into a shape and get someone to compliment it.,Medium
+Skill,Mimic,Get a player to mimic your exact movements for 30 seconds.,Hard
+Skill,Beatbox,Get a player to attempt to beatbox for you.,Medium
+Skill,Coin Flip,"Challenge a player to a coin flip and get them to call ""heads.""",Easy
+Skill,Thumb War,Challenge a player to a thumb war and get them to win.,Easy
+Skill,Staring Contest,Get a player to lose a staring contest against you.,Medium
+Skill,Handstand,Get a player to attempt a handstand or cartwheel.,Hard
+Party,Compliment,Get a player to compliment your hair or your outfit.,Easy
+Party,Repeat After Me,Get a player to repeat exactly what you said three times in a row.,Medium
+Party,The Joker,Tell a joke and get at least three people to laugh at the same time.,Hard
+Party,Photographer,Get a player to ask you to take a photo of them with their phone.,Medium
+Party,Duet,Start singing a simple song and get another person to join in.,Medium
+Party,Standing Ovation,Get a player to stand up and clap for something you just did.,Hard
+Party,Name Tag,Get someone to let you write a nickname on a piece of tape and stick it on them.,Hard
+Party,The Ghost,Successfully leave a room without anyone noticing for 5 minutes.,Medium
+Party,High Five Line,Get at least 4 people to do a high-five line with you.,Medium
+Party,Dance Move,Get someone to teach you a specific dance move.,Easy
+Party,Social Media,Get someone to show you the last photo they took on their phone.,Medium
+Party,Blindfold,"Convince someone to close their eyes while you ""give them a surprise"" (can be a snack).",Hard
+Party,Technical Support,"Get someone to ""fix"" a small non-issue on your phone.",Medium
+Party,Team Name,"Get a group to agree on a ""team name"" for themselves.",Easy
+Party,Double Take,Do something that makes a player stop and look twice at you.,Medium
